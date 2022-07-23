@@ -2,12 +2,12 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
-        <item url="file://$PROJECT_DIR$/code/02_TS的自动编译02_auto.js" />
+        <item url="file://$PROJECT_DIR$/01-ts-basichello.js" />
         <item url="file://$PROJECT_DIR$/code/03_interface03_interface.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/code/02_TS的自动编译02_auto.js" />
+      <root url="file://$PROJECT_DIR$/01-ts-basichello.js" />
       <root url="file://$PROJECT_DIR$/code/03_interface03_interface.js" />
     </CLASSES>
     <JAVADOC />
